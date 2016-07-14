@@ -25,7 +25,7 @@
 # GET OUR OWN KEY
 # Make sure you get your own key from badips.com and add it below before running this
 # *****************************************************************************************************
-# ERRORS
+# ERRORS AND ISSUES
 # An error on the first run is normal "tail: invalid number of lines: ‘/etc/hosts.deny’"
 # Avoid this by first adding the comment block into your exising hosts.deny file
 # Report any issues on https://github.com/mitchellkrogza/fail2ban-useful-scripts/
