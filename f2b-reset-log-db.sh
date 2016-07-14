@@ -25,3 +25,5 @@ sudo rm $F2Bdb
 echo "Restarting Fail2Ban Service"
 sudo service fail2ban restart
 echo "All Done"
+
+# Thats all
